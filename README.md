@@ -15,8 +15,6 @@ In this project, we:
 - Visualize the clusters using **Seaborn** and **Matplotlib**  
 - Evaluate clustering performance using known labels (for learning purposes only)
 
-This exercise helps understand the core concepts behind **unsupervised learning** and **cluster analysis**.
-
 ---
 
 ## 🧠 Key Concepts
